@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/romoan/vuenas-practicas/issues"
   },
-  "homepage": "https://github.com/romoan/vuenas-practicas#readme"
+  "homepage": "https://github.com/romoan/vuenas-practicas#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
